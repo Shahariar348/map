@@ -1,0 +1,16 @@
+*{
+   background-color: hotpink;  
+}
+
+.list{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.description{
+    width: 500px;
+    height: 400px;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+
+}
